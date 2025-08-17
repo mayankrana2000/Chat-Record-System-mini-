@@ -1,0 +1,38 @@
+.chat {
+  background-color: aquamarine;
+  padding:20px;
+  margin: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 300px;
+  
+}
+.msg {
+  background-color: rgb(232, 232, 45);
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+  height: 250px;
+  margin-bottom: 10px;
+   
+}
+  
+
+.button{
+  display:flex;
+  flex-direction: row;
+  gap: 10px;
+  
+}
+.head{
+display: flex;
+justify-content:center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#body{
+  background-color: beige;
+}
+.newchat{
+  margin-left:10px ;
+}

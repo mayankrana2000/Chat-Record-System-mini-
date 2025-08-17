@@ -1,0 +1,25 @@
+.mainbd{
+    background-color: aquamarine;
+    margin: 100px;
+    padding: 100px;
+}
+.id{
+    background-color: bisque;
+    border: 2px solid rgb(250, 187, 109);
+    border-radius: 5px;
+   font-family: Georgia, serif;
+   height: auto;
+}
+.details{
+    background-color: rgb(249, 248, 176);
+    border: 2px solid rgb(253, 249, 2);
+    border-radius: 5px;
+    height: 30px;
+    font-family: Georgia, serif;
+}
+
+.form-floating{
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
